@@ -1,3 +1,8 @@
 Control of Computer Processes
 The computer processing unit (CPU) can only carry out one task at a time.
 It is the operating system that selects the most important task that the system will carry out at any time. No matter the number of tasks sent to the computer, it is the task approved by the operating system that will run on the computer. All the list I gave above is an example of an operating system and its functions.
+
+Management of Printing
+It is the role of an operating system to control how the printer will receive and carry out the printing instructions which you send from any word processing software or other devices.
+You can send one print command or ten to your printer. The operating system will make sure the print jobs which get to the printer as separate files so that they do not mix up.
+
