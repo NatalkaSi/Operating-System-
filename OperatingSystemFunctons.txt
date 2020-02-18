@@ -1,0 +1,3 @@
+Control of Computer Processes
+The computer processing unit (CPU) can only carry out one task at a time.
+It is the operating system that selects the most important task that the system will carry out at any time. No matter the number of tasks sent to the computer, it is the task approved by the operating system that will run on the computer. All the list I gave above is an example of an operating system and its functions.
